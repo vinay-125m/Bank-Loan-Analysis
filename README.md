@@ -4,14 +4,13 @@
 This project demonstrates a complete end-to-end **data analytics workflow** in the **Banking & Financial Services** domain.  
 Using **38,000+ loan records across 24 attributes**, the analysis uncovers key insights into loan applications, repayments, credit risk, and customer segments.  
 
-The project leverages **Power BI, SQL, Tableau, and Excel** to build interactive dashboards, perform data cleaning & modeling, and generate actionable business intelligence.  
+The project leverages **Power BI, SQL, and Excel** to build interactive dashboards, perform data cleaning & modeling, and generate actionable business intelligence.  
 
 ---
 
 ## 🛠 Tools & Technologies  
 - **SQL (MSSQL / RDBMS)** – Data import, schema design, querying  
 - **Power BI** – KPI dashboards, drill-downs, performance reports  
-- **Tableau** – Geospatial visualizations, trend analysis, interactive dashboards  
 - **Excel** – Data cleaning 
 
 ---
@@ -40,7 +39,7 @@ The project leverages **Power BI, SQL, Tableau, and Excel** to build interactive
    - Created calculated fields & measures for KPIs  
 
 3. **Analytics & Visualization**  
-   - Developed KPI dashboards in **Power BI, Tableau, Excel**  
+   - Developed KPI dashboards in **Power BI, Excel**  
    - Built trend charts, DTI analysis, repayment breakdowns, and customer profiles  
 
 4. **Business Insights**  
